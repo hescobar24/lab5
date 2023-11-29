@@ -1,3 +1,12 @@
 #flex-container{
     display: flex;
     flex-direction: row;}
+li.nav{
+        display:inline;
+        margin: 5.5vw;
+        list-style-type:none;
+        font-family: Arial, Helvetica, sans-serif;}
+#brown{
+    text-align: center;
+}
+        
