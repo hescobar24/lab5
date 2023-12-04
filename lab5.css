@@ -28,4 +28,24 @@ header{
 #flex-item{
     padding: 4%;
 }
+.clover{
+    font-family: "helvetica";
+    font-size: 2.5vw;
+    margin-bottom: 2%;}
+    p{
+        font-family: "DM Sans", Arial, Helvetica, sans-serif;;}
+.white{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 0.25%;
+            padding-left: 5%;}
+footer{
+                font-size: 2vw;
+                font-family: "DM Sans", Arial, Helvetica, sans-serif;
+                text-align: center;
+                margin-bottom: 2vw;
+            }
+hr{
+    : 2px;
+}
+
            
