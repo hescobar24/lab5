@@ -45,7 +45,8 @@ footer{
                 margin-bottom: 2vw;
             }
 hr{
-    : 2px;
+    height: 5px;
+    background-color: rgb(33, 177, 122);
 }
 
            
